@@ -1,7 +1,5 @@
 /* 
- Name: Aryansingh Chauhan, Ackchat Omar
- Net ID: achauh9, aomar22
- Group/Team #: 85
+ Name: Aryansingh Chauhan
  Abstract: Bored of checking when to take out the trash? Introducing a smart trash management system that eradicates the need to constantly keep on checking how much trash is occupied in the bin.
            With today’s technology, the smart trash will notify the user via different output methods that trash needs to be removed. By having the user notified without having them open the bin themselves to check trash levels,
            The aim is to reduce daily human effort and at the same time make sure trash is being removed from households rather than being collected.

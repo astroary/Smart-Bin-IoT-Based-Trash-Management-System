@@ -59,7 +59,7 @@ Logic: Interprets incoming serial data to trigger the appropriate visual and aud
 
 
 👥 Author
-Aryansingh Chauhan** (astroary)
+Aryansingh Chauhan (astroary)
 
 ---
 Course: CS 362 (Computer Design), Fall 2023  
